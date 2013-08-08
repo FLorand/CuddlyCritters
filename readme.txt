@@ -9,7 +9,7 @@ Insted of hiring a professional web designer to design the shops new website the
 can you fix the webpage? 
 If so the owner would like to request a few things:
 
-replace the not so cuddly photos!
+Replace the not so cuddly photos!
 have a friendly greeting greet the costumer when they arrive at the site
 fix the bland color scheme
 find a more interesting photo layout
